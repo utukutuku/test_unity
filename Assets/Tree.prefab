@@ -356,7 +356,7 @@ MonoBehaviour:
   m_Name: Tree Data
   m_EditorClassIdentifier: 
   _uniqueID: 184
-  materialHash: 84694285c946a51a209d99598d8da9f7255852544
+  materialHash: d2fa3addb9a6e61eb534169ad7f2aa59255852544
   root:
     _uniqueID: 1
     seed: 1234
@@ -1044,7 +1044,7 @@ MonoBehaviour:
     parentGroupID: 23
     childGroupIDs: 
     geometryMode: 3
-    materialLeaf: {fileID: 2100000, guid: b4a323afec337a447b51e3e11017a95f, type: 2}
+    materialLeaf: {fileID: 2100000, guid: 552367bbaa0683342838192f0bbb1c57, type: 2}
     instanceMesh: {fileID: 0}
     size: {x: 0.7047809, y: 1.378486}
     perpendicularAlign: 0
